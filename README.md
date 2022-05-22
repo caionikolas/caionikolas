@@ -7,7 +7,7 @@
   <img align="center" alt="caio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img align="center" alt="caio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="caio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
+  <img align="center" alt="caio-CSS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
 </div>
 <!-- <img align="center" alt="caio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> --!>
-##
+
