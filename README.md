@@ -1,5 +1,9 @@
 ### Caio Nikolas
 
+<a href="#" target="_blank">
+  <img src="svg/earth.svg" width="1200" alt="profile-Nikolas" />
+</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
