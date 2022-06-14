@@ -1,5 +1,3 @@
-### Caio Nikolas
-
 <a href="#" target="_blank">
   <img src="svg/earth.svg" width="1200" alt="profile-Nikolas" />
 </a>
